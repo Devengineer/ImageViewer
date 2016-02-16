@@ -1,1 +1,1 @@
-# ImageViewer - GTK#
+# ImageViewer - GTKsharp
